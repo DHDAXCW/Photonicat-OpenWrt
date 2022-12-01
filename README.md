@@ -3,7 +3,7 @@
 ### 地址：192.168.11.1
 ### 密码：password
 ### 下载固件：https://github.com/DHDAXCW/Photonicat-OpenWrt/releases/tag/12.01
-### 固件禁止用于商业，哪个商家来拿本固件预装卖出赚钱就去死吧！可用于纯娱乐~我花钱买来的昂！
+### 固件禁止用于商业，哪个商家来拿本固件预装卖出赚钱就去死吧！仅给买过的设备用本固件是可以，只要不拿来赚钱怎么都行~我花钱买来才搞固件的昂！
 - 查资料到那边看去 https://photonicat.com/wiki/Main_Page
 
 ![7d94d4746c497d5cb71076deed66c3b](https://user-images.githubusercontent.com/74764072/205104964-dd9ec703-a608-4ff9-8fd5-24df31cde0d6.png)
